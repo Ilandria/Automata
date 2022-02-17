@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73941e2e119fffd4b8c7092062993a73, type: 3}
+  m_Name: World
+  m_EditorClassIdentifier: 
+  m_worldChunkDictionary: {fileID: 11400000, guid: b47001feecf142944b4a78d89920604b,
+    type: 2}
+  m_lastInteractLocation: {fileID: 11400000, guid: 66548a66ecb77d84b9bca9da6b83f935,
+    type: 2}
+  m_worldChunkDimensions: {fileID: 11400000, guid: 82c45705db6ac304097f2fb494fc9c4b,
+    type: 2}
+  m_currentCursorColour: {fileID: 11400000, guid: 76bcd5098495ec04eb45ed67171ef657,
+    type: 2}
+  m_neighbourWorldChunks: {fileID: 11400000, guid: 922da8239e1f32745b899cdf46c8bf00,
+    type: 2}
+  m_neighbourTiles: {fileID: 11400000, guid: 1d2decb0ecd7d974b9fb2ebab746ae82, type: 2}
