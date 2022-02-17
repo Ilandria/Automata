@@ -1,3 +1,7 @@
+===== Build & Demo =====
+
+See here: https://drive.google.com/drive/folders/1fP1oFSv07bMlxB3OwR7rVNpBPCLfCYT1?usp=sharing
+
 ===== Concept =====
 
 I wanted to try and put an artistic twist on the cellular automata theme. This project
